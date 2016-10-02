@@ -20,6 +20,7 @@ Content that may infringe or violate any patent, trademark, trade secret, copyri
 Mass or repeated promotions, political campaigning or commercial messages directed at users who do not follow you (SPAM);
 Private information of any third party (e.g., addresses, phone numbers, email addresses, Social Security numbers and credit card numbers); and
 Viruses, corrupted data or other harmful, disruptive or destructive files or code.
+
 Also, you agree that you will not do any of the following in connection with the Service or other users:
 
 Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
